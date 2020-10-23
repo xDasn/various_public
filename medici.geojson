@@ -1,0 +1,566 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.372617,
+          49.102405
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Ivan\u010dice",
+        "Po\u010det": "8",
+        "X": "49.102405",
+        "Y": "16.372617",
+        "GPS-mapycz": "49.1024056N, 16.3726178E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.881210999999997,
+          48.753009999999996
+        ]
+      },
+      "properties": {
+        "Nemocnice": "B\u0159eclav",
+        "Po\u010det": "6",
+        "X": "48.753009999999996",
+        "Y": "16.881210999999997",
+        "GPS-mapycz": "48.7530106N, 16.8812119E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.615276,
+          49.197685
+        ]
+      },
+      "properties": {
+        "Nemocnice": "\u00darazov\u00e1 nemocnice Brno",
+        "Po\u010det": "11",
+        "X": "49.197685",
+        "Y": "16.615276",
+        "GPS-mapycz": "49.1976853N, 16.6152764E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.631179,
+          49.201915
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Vojensk\u00e1 nemocnice Brno",
+        "Po\u010det": "8",
+        "X": "49.201915",
+        "Y": "16.631179",
+        "GPS-mapycz": "49.2019158N, 16.6311797E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.596912,
+          49.185626
+        ]
+      },
+      "properties": {
+        "Nemocnice": "NMB Brno",
+        "Po\u010det": "5",
+        "X": "49.185626",
+        "Y": "16.596912",
+        "GPS-mapycz": "49.1856269N, 16.5969125E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.646484,
+          49.20005
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Domov pro seniory Nopova",
+        "Po\u010det": "2",
+        "X": "49.20005",
+        "Y": "16.646484",
+        "GPS-mapycz": "49.2000503N, 16.6464844E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.589094,
+          49.19453
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Masaryk\u016fv onkologick\u00fd \u00fastav",
+        "Po\u010det": "11",
+        "X": "49.19453",
+        "Y": "16.589094",
+        "GPS-mapycz": "49.1945306N, 16.5890942E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.730325,
+          48.944765999999994
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice Hustope\u010de",
+        "Po\u010det": "4",
+        "X": "48.944765999999994",
+        "Y": "16.730325",
+        "GPS-mapycz": "48.9447669N, 16.7303258E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.643058,
+          49.490981
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice Boskovice",
+        "Po\u010det": "5",
+        "X": "49.490981",
+        "Y": "16.643058",
+        "GPS-mapycz": "49.4909819N, 16.6430589E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.571123,
+          49.221786
+        ]
+      },
+      "properties": {
+        "Nemocnice": "DpS Vychodilova",
+        "Po\u010det": "5",
+        "X": "49.221786",
+        "Y": "16.571123",
+        "GPS-mapycz": "49.2217864N, 16.5711231E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.088306,
+          49.475677000000005
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice Prost\u011bjov",
+        "Po\u010det": "6",
+        "X": "49.475677000000005",
+        "Y": "17.088306",
+        "GPS-mapycz": "49.4756775N, 17.0883064E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.298149,
+          49.722457
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice \u0160ternberk",
+        "Po\u010det": "4",
+        "X": "49.722457",
+        "Y": "17.298149",
+        "GPS-mapycz": "49.7224578N, 17.2981492E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.198221,
+          50.22767
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice Jesen\u00edk",
+        "Po\u010det": "1",
+        "X": "50.22767",
+        "Y": "17.198221",
+        "GPS-mapycz": "50.2276706N, 17.1982219E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.475361,
+          49.457694000000004
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice P\u0159erov",
+        "Po\u010det": "1",
+        "X": "49.457694000000004",
+        "Y": "17.475361",
+        "GPS-mapycz": "49.4576944N, 17.4753611E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0508,
+          48.869440999999995
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice Znojmo",
+        "Po\u010det": "10",
+        "X": "48.869440999999995",
+        "Y": "16.0508",
+        "GPS-mapycz": "48.8694419N, 16.0508003E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.111425,
+          49.006775
+        ]
+      },
+      "properties": {
+        "Nemocnice": "CS Kyjov",
+        "Po\u010det": "2",
+        "X": "49.006775",
+        "Y": "17.111425",
+        "GPS-mapycz": "49.0067750N, 17.1114253E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.660778,
+          49.199512
+        ]
+      },
+      "properties": {
+        "Nemocnice": "DpS V\u011bstonick\u00e1",
+        "Po\u010det": "10",
+        "X": "49.199512",
+        "Y": "16.660778",
+        "GPS-mapycz": "49.1995125N, 16.6607781E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.062181,
+          49.562126
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice Nov\u00e9 M\u011bsto n. M.",
+        "Po\u010det": "7",
+        "X": "49.562126",
+        "Y": "16.062181",
+        "GPS-mapycz": "49.5621261N, 16.0621814E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.694025,
+          49.230090999999994
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice Zl\u00edn",
+        "Po\u010det": "6",
+        "X": "49.230090999999994",
+        "Y": "17.694025",
+        "GPS-mapycz": "49.2300911N, 17.6940250E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.121507,
+          48.850765
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Krajsk\u00e1 hygiencik\u00e1 stanice Hodon\u00edn",
+        "Po\u010det": "1",
+        "X": "48.850765",
+        "Y": "17.121507",
+        "GPS-mapycz": "48.8507653N, 17.1215078E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.889553,
+          48.763652
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Krajsk\u00e1 hygienick\u00e1 stanice B\u0159eclav",
+        "Po\u010det": "1",
+        "X": "48.763652",
+        "Y": "16.889553",
+        "GPS-mapycz": "48.7636528N, 16.8895531E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.611379,
+          49.203703999999995
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Krajsk\u00e1 hygienick\u00e1 stanice Brno",
+        "Po\u010det": "35",
+        "X": "49.203703999999995",
+        "Y": "16.611379",
+        "GPS-mapycz": "49.2037047N, 16.6113797E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.979921,
+          49.277515
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice Vy\u0161kov",
+        "Po\u010det": "1",
+        "X": "49.277515",
+        "Y": "16.979921",
+        "GPS-mapycz": "49.2775153N, 16.9799214E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.270630999999998,
+          49.815818
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice V\u00edtkovice",
+        "Po\u010det": "1",
+        "X": "49.815818",
+        "Y": "18.270630999999998",
+        "GPS-mapycz": "49.8158189N, 18.2706317E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.964309,
+          49.959091
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice \u0160umperk",
+        "Po\u010det": "1",
+        "X": "49.959091",
+        "Y": "16.964309",
+        "GPS-mapycz": "49.9590911N, 16.9643097E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.878362,
+          49.935077
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice Opava",
+        "Po\u010det": "1",
+        "X": "49.935077",
+        "Y": "17.878362",
+        "GPS-mapycz": "49.9350778N, 17.8783628E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.886671,
+          49.225555
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Charita T\u0159ebi\u010d",
+        "Po\u010det": "1",
+        "X": "49.225555",
+        "Y": "15.886671",
+        "GPS-mapycz": "49.2255556N, 15.8866711E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.452434,
+          49.063068
+        ]
+      },
+      "properties": {
+        "Nemocnice": "Nemocnice Uhersk\u00e9 Hradi\u0161t\u011b",
+        "Po\u010det": "1",
+        "X": "49.063068",
+        "Y": "17.452434",
+        "GPS-mapycz": "49.0630683N, 17.4524344E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.612248000000001,
+          49.632743
+        ]
+      },
+      "properties": {
+        "Nemocnice": "DpS B\u0159evnice",
+        "Po\u010det": "2",
+        "X": "49.632743",
+        "Y": "15.612248000000001",
+        "GPS-mapycz": "49.6327439N, 15.6122483E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.598775,
+          49.191326000000004
+        ]
+      },
+      "properties": {
+        "Nemocnice": "FNUSA",
+        "Po\u010det": "55",
+        "X": "49.191326000000004",
+        "Y": "16.598775",
+        "GPS-mapycz": "49.1913261N, 16.5987758E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.596892999999998,
+          49.198570000000004
+        ]
+      },
+      "properties": {
+        "Nemocnice": "FNB - porodnice Obiln\u00ed trh",
+        "Po\u010det": "15",
+        "X": "49.198570000000004",
+        "Y": "16.596892999999998",
+        "GPS-mapycz": "49.1985703N, 16.5968933E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.618001,
+          49.203742999999996
+        ]
+      },
+      "properties": {
+        "Nemocnice": "FNB D\u011btsk\u00e1 nemocnice",
+        "Po\u010det": "44",
+        "X": "49.203742999999996",
+        "Y": "16.618001",
+        "GPS-mapycz": "49.2037431N, 16.6180019E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.567695999999998,
+          49.175937
+        ]
+      },
+      "properties": {
+        "Nemocnice": "FNB Bohunice",
+        "Po\u010det": "117",
+        "X": "49.175937",
+        "Y": "16.567695999999998",
+        "GPS-mapycz": "49.1759378N, 16.5676967E"
+      }
+    }
+  ]
+}
